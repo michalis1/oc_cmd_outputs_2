@@ -1,8 +1,6 @@
-<group name="output.output">
 Cisco IOS XE Software, Version
 Cisco IOS Software [{{image_name}}], ISR Software {{software_image}}, Version {{version}}, RELEASE SOFTWARE ({{release}})
 System image file is "{{ running_image }}"
 Processor board ID {{ serial }}
 cisco {{ hardware }} (
 CSMS-LAB-R1 uptime is 40 weeks, {{ uptime_days|to_int }} days, 21 hours, 24 minutes
-</group>
