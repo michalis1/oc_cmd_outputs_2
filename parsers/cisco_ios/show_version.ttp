@@ -1,4 +1,4 @@
-<group name="output">
+<group name="output.output">
 Cisco IOS XE Software, Version
 Cisco IOS Software [{{image_name}}], ISR Software {{software_image}}, Version {{version}}, RELEASE SOFTWARE ({{release}})
 System image file is "{{ running_image }}"
